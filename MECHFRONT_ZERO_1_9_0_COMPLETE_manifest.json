@@ -1,0 +1,22 @@
+{
+  "title": "MECHFRONT ZERO",
+  "version": "1.9.0-COMPLETE",
+  "credit": "DarkStar Studios \u2014 A Wyatt Willer Production",
+  "rom_file": "MECHFRONT_ZERO_1_9_0_COMPLETE.nes",
+  "size_bytes": 524304,
+  "sha256_prefix": "13e3a24d97bbb211",
+  "mapper": "iNES Mapper 4 (MMC3) \u2014 256KB PRG / 256KB CHR",
+  "anime_intro_overhaul": {
+    "soundtrack": "Track 11 \u2014 'ZERO IGNITION' (432-frame 4-Channel Gundam Anime Opening Anthem in PRG Bank 9: 25% pulse heroic lead, 12.5% lightning 16th-note harmony arpeggios, Sunsoft octave slap bass, rapid snare crescendo right into the beam blast)",
+    "cels": [
+      "Phase 0 (Frames 0-87): Zero-G Space Float (CHR 116-123) \u2014 dynamic bent-knee space drift above curved planet horizon with 2-frame vernier thruster flare & 60fps Y-scroll sine bob",
+      "Phase 1 (Frames 88-135): Visor Ignition Close-Up (CHR 124-131) \u2014 extreme Gundam anime close-up with 15fps pulsing cyan cross-flare, armor lightning & metallic visor ping SFX #7",
+      "Phase 2 (Frames 136-183): Mid-Flight Action Twist & Rifle Draw (CHR 132-139) \u2014 dynamic 3/4 space turn swinging the Beam Bolter forward with 15fps diagonal speedlines & OAM warp-streaks",
+      "Phase 3 (Frames 184-231): Foreshortened Cannon Lock-On & Charge (CHR 140-147) \u2014 dramatic anime perspective down the octagonal Beam Bolter muzzle with pulsing plasma core, radiating speedlines & escalating rumble",
+      "Phase 4 (Frames 232-267): Screen-Shattering Mega-Beam Blast (CHR 148-155) \u2014 recoil plasma eruption & shockwave rings washing the full screen in electric blue",
+      "Phase 5 (Frames 268-407): 'A WYATT WILLER PRODUCTION' (CHR 156-163) \u2014 100% lossless chrome-white credit on flowing electric cobalt-blue ($01) plasma wash & OAM warp-streaks",
+      "Phase 6 (Frames 408-430 + 32f Dissolve): One-Motion Blue Wash Wipe directly into the live Title Screen with ZERO black frames"
+    ]
+  },
+  "full_campaign_included": "Missions 01-05 (20 Playable Zones, 16 RPG Story Scenes / 85 Pages, Bosses #1-3 incl. Colossal 32x48 Clan War Machine, SELECT Heavy/Beam Bolter Arm Swap, Chapter & 20-Mission Select, 12 4-Channel OST Tracks, Untouched v1.7 Archive)"
+}
